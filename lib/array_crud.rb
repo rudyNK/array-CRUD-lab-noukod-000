@@ -13,7 +13,7 @@ array << element
 end
 
 def add_element_to_start_of_array(array, element)
-  array.unshit(element)
+  array.unshift(element)
 
 end
 
